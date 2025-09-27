@@ -1,6 +1,5 @@
 # Te-ador-piticotu-meuuuuuuu
 Multumesc ca faci parte din viata meaaa te iubiiii cel mai multtttt
-<!DOCTYPE html>
 <html lang="ro">
 <head>
     <meta charset="UTF-8">
